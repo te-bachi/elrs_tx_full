@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "elrs_tx_full")(type "KiCad")(uri "${KIPRJMOD}/elrs_tx_full.pretty")(options "")(descr ""))
+)

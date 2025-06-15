@@ -1,4 +1,4 @@
-25214202519823004
+25221202008220963
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -101296,3 +101296,31 @@ ESP32-WROOM-32D-MY
 0
 60
 39
+elrs_tx_full
+ESP32-WROOM-32_zhaw
+Single 2.4 GHz Wi-Fi and Bluetooth combo chip https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf
+Single 2.4 GHz Wi-Fi and Bluetooth combo  chip
+0
+39
+39
+elrs_tx_full
+OLED_27.3x27.8mm
+OLED
+OLED
+0
+4
+4
+elrs_tx_full
+OLED_27.3x27.8mm_no_holes
+OLED
+OLED
+0
+4
+4
+elrs_tx_full
+USB_C_DEALON_009
+USB TYPE C, RA RCPT PCB, Hybrid, https://www.amphenolcanada.com/StockAvailabilityPrice.aspx?From=&PartNum=12401548E4%7e2A
+USB C Type-C Receptacle Hybrid
+0
+10
+7

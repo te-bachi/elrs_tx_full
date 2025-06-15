@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 0.8,
-          "width": 2.0
+          "drill": 1.0,
+          "height": 2.2,
+          "width": 1.7
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -58,7 +58,52 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "courtyards_overlap|132635000|67191000|acc75983-fc81-48a4-8b20-d06f03f83539|db380b6f-291d-40d2-9cce-6c7dc2490b9e",
+          ""
+        ],
+        [
+          "courtyards_overlap|132936430|41503000|db380b6f-291d-40d2-9cce-6c7dc2490b9e|ec2b88d5-f043-425e-bb6d-85915c870b67",
+          ""
+        ],
+        [
+          "courtyards_overlap|137930929|40741000|db380b6f-291d-40d2-9cce-6c7dc2490b9e|e8006580-7b0c-487c-8c68-b4ef6fba81f3",
+          ""
+        ],
+        [
+          "lib_footprint_mismatch|121465000|54686000|24bf3cd3-9bd2-42ef-88f7-cb7ae3ecdf45|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_edge_clearance|135165000|47208750|5fd573cd-a4e3-46fb-9a7d-ba4776a823f1|107d81bb-3be6-4697-b803-93086ed6e3b2",
+          ""
+        ],
+        [
+          "silk_edge_clearance|138775000|46306250|5fd573cd-a4e3-46fb-9a7d-ba4776a823f1|0d5a222e-ac55-4bd1-bbfd-c2e407d203bd",
+          ""
+        ],
+        [
+          "silk_edge_clearance|86698200|82000000|53a1473e-2ee5-40d6-8635-fc5cb6d90532|8274d17e-1305-4025-9a37-9cb0e3415d7e",
+          ""
+        ],
+        [
+          "silk_edge_clearance|92279400|41117600|914f8521-7547-4082-872a-a35b9583384e|e295a944-1026-4651-b49d-8fce9dec72bf",
+          ""
+        ],
+        [
+          "silk_edge_clearance|96197800|82000000|53a1473e-2ee5-40d6-8635-fc5cb6d90532|4896b39f-89fe-49af-9a29-133114d131ab",
+          ""
+        ],
+        [
+          "silk_over_copper|130219260|68553374|2f0a0100-1829-4085-b272-a7a8ad9c0a9b|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_over_copper|135165000|41862554|107d81bb-3be6-4697-b803-93086ed6e3b2|00000000-0000-0000-0000-000000000000",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
